@@ -10,8 +10,8 @@
     "url": "https://www.3dsellers.com"
   },
   "homepage": "https://www.3dsellers.com/channel-integration/3dsellers-mcp",
-  "repo": "https://github.com/3dsellers/3dsellers-mcp",
-  "icon": "https://raw.githubusercontent.com/3dsellers/3dsellers-mcp/main/assets/logo.png",
+  "repo": "https://github.com/3dsellers/ebay-mcp-server",
+  "icon": "https://raw.githubusercontent.com/3dsellers/ebay-mcp-server/main/assets/logo.png",
   "tags": [
     "business",
     "sales"
